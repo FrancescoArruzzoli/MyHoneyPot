@@ -1,2 +1,3 @@
-![icons8-piattaforma-google-cloud-color-310](https://user-images.githubusercontent.com/73478279/172622501-f68940cc-0398-4bae-b5c5-74818d3c1248.png)
+![icons8-piattaforma-google-cloud-color-70](https://user-images.githubusercontent.com/73478279/172622618-7cf711ea-b826-4890-b8b3-1d786b2d23b0.png)
+
 # MyHoneyPot
